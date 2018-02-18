@@ -1,0 +1,23 @@
+{
+  "name": "string-split.js",
+  "version": "1.0.0",
+  "description": ".NET's String.Split for JavaScript",
+  "author": "Atif Aziz <code@raboof.com> (http://www.raboof.com/)",
+  "license": "Apache-2.0",
+  "main": "splitstr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atifaziz/split-string.js.git"
+  },
+  "keywords": [
+    "string",
+    "split"
+  ],
+  "bugs": {
+    "url": "https://github.com/atifaziz/split-string.js/issues"
+  },
+  "homepage": "https://github.com/atifaziz/split-string.js#readme"
+}
